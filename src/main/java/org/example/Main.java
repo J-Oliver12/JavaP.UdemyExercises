@@ -17,7 +17,7 @@ public class Main {
             System.out.println("Got some remainer");
         }
 
-        System.out.println("\nGot no remainer = " +zero);
+        System.out.println("\nGot no remainer= " +zero);
 
 
 
